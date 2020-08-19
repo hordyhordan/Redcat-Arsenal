@@ -1,0 +1,17 @@
+apt install beef -y
+apt install mcrypt -y
+apt install exiftool -y
+apt install fcrackzip -y
+apt install steghide -y
+apt install dirbuster -y
+apt install ncat -y
+apt install dirb -y
+apt install cupp -y
+apt install evince -y
+apt install recon-ng -y
+apt install sqlninja -y
+wget https://www.snort.org/downloads/snort/daq-2.0.7.tar.gz
+apt install armitage -y
+apt install lynis -y
+apt install apktool -y
+apt install yersinia -y
