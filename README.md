@@ -24,7 +24,7 @@ you to install.
 
 #### Clone the repo to the RedcatArsenal directory
 
-`git clone https://stash.pnnl.gov/users/burt564/repos/redcat-arsenal/browse.git`
+`git clone https://github.com/hordyhordan/RedTeam-Arsenal.git`
 
 #### Install the Redcat Arsenal
 
