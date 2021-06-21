@@ -17,14 +17,14 @@ you to install.
 
 `sudo su`
 
-#### Create a folder to hold your "Redcat Arsenal"
-
-`mkdir RedcatArsenal`     
-`cd RedcatArsenal`
 
 #### Clone the repo to the RedcatArsenal directory
 
 `git clone https://github.com/hordyhordan/RedTeam-Arsenal.git`
+
+#### Port the script to Unix device 
+
+`sed -i -e 's/\r$//' scriptname.sh`
 
 #### Install the Redcat Arsenal
 
